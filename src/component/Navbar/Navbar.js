@@ -8,11 +8,7 @@ export default function Navbar() {
            <img src={logo}></img>
            <ul className="nav-links">
                <li><a href="/" className="nav-link">Home</a></li>
-           
-           
                <li><a href="/" className="nav-link">Contact</a></li>
-           
-           
                <li><a href="/" className="nav-link active">About</a></li>
            </ul>
 
